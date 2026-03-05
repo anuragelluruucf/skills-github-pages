@@ -1,0 +1,18 @@
+title: Anurag Elluru
+author: Anurag Elluru
+
+description: >
+  Business Analyst with 4+ years of experience in data workflows,
+  analytics, and enterprise systems. Skilled in SQL, Python,
+  Power BI, Tableau, and system testing.
+
+theme: minima
+
+github_username: anuragelluruucf
+linkedin_username: anuragelluru
+email: eanurag98@gmail.com
+
+show_excerpts: true
+
+header_pages:
+  - index.md
